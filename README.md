@@ -9,12 +9,18 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Spring 2020
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: What make Ed-Sheeran Sucess?
++ This project is conducted by [Hongshan Lin]
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: Today music industry is heavily related on the data,and there is a necessity for artists who want to be profitable to utilize data science to analyze the trend in the industry.Hence, in thie project,I will use text mining and exploratory analysis to figure out is there any specific style (such as lyrics’length, emotion, and topic) that makes his songs so sucuessful in pop music? By doing this, I am going to compare the lyrics of other pop music artists with Ed-Sheeran to see what is the different between them, so we can pay more attention to them or ED-Sheeran’s songs are just typical pop music there is no any specifical different.
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+In this project I will compare the different between Ed-Sheeran’s songs with other artists in pop music by conducting a text-mining with sentiment analysis, word cloud, topics modelling, and exploratory to answer the following questions:
+
+(1)Is the lyric’s length in each song a specifical feature make the song success? (In other words, let Ed-Sheeran’s songs standing out)
+(2）Is the emotion in lyrics an important feature to make Ed-Sheeran success?
+(3)Are the word use and context topic important features to make Ed-Sheeran success?
+
+
 
 ```
 proj/
