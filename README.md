@@ -16,8 +16,10 @@ Term: Spring 2020
 
 In this project I will compare the different between Ed-Sheeran’s songs with other artists in pop music by conducting a text-mining with sentiment analysis, word cloud, topics modelling, and exploratory to answer the following questions:
 
-(1)Is the lyric’s length in each song a specifical feature make the song success? (In other words, let Ed-Sheeran’s songs standing out)
-(2）Is the emotion in lyrics an important feature to make Ed-Sheeran success?
+(1)Is the lyric’s length in each song a specifical feature make the song success? (In other words, let Ed-Sheeran’s songs standing out)  
+
+(2）Is the emotion in lyrics an important feature to make Ed-Sheeran success?  
+
 (3)Are the word use and context topic important features to make Ed-Sheeran success?
 
 
